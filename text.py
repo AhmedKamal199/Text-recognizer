@@ -1,5 +1,4 @@
 # Number plate anylizer 
-# text.py
 # Import required packages
 import cv2
 import pytesseract
